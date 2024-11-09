@@ -7,7 +7,7 @@ Set up your database environment: Ensure that you have a SQL server installed (e
 Clone the repository: Download the scripts to your local machine or directly clone this repository using Git:
 bash
 Copy code
-git clone https://github.com/yourusername/your-repository-name.git
+git clone (with the link to this repository).
 Open your SQL client: Use your preferred SQL client (e.g., pgAdmin for PostgreSQL, MySQL Workbench, or SQL Server Management Studio).
 Run the scripts: Open each SQL file in your SQL client and execute the queries to analyze and optimize the production processes.
 Files Description
